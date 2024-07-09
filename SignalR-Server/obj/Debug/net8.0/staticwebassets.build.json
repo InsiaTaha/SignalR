@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iHFv+RFmLn2sWVM1Q9lIbpfTowi+JgKtkh4cUVQSQJ4=",
+  "Source": "SignalRNotificationApp",
+  "BasePath": "_content/SignalRNotificationApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
